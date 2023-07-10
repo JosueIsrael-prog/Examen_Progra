@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Define la estructura estudiante
+// Define estructura del estudiante
 typedef struct {
     int codigo;
     double nota;
