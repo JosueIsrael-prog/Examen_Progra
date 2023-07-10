@@ -1,3 +1,4 @@
+// determinar las librerias
 #include <stdio.h>
 #include <stdlib.h>
 
